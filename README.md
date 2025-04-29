@@ -1,5 +1,4 @@
 Flight Delays ETL Project
-
 Project Overview
 This project simulates a real-world data engineering workflow by performing an ETL (Extract, Transform, Load) process on a large dataset containing commercial flight information.
 The main goal is to clean and enrich raw data and then load it into a SQL database for future querying and analysis.
