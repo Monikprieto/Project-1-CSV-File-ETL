@@ -55,13 +55,13 @@ Clean and structured flight data stored in a SQL database.
 Ready for querying, reporting, or advanced analysis.
 The process reflects a realistic ETL pipeline suitable for portfolio presentation.
 
-Project 1: CSV File ETL /
-├── flight_delays.csv
-├── etl_to_postgres.py
+Project 1: CSV File ETL 
 ├── Project_1_CSV_FileETLRead.ipynb
-├── cleaned_flight_delays.cvs
-├── flight_delays_dump.sql
+├── etl_to_postgres.py
+├── flight_delays_eschema.sql
+├── flight_delays_sample.sql
 ├── README.md
+
 
 Author
 Monica Prieto — Data Engineer
